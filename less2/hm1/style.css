@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+}
+.box{
+
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+}
+.flexConteiner {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.rubikPixels {
+    font-family: "Rubik Pixels", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sedgwick {
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dancingScript {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fjallaOne {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.indieFlower {
+
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
