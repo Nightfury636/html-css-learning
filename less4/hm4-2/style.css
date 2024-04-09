@@ -1,0 +1,124 @@
+body {
+    margin: 0 auto;
+}
+.block-main{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://s3-alpha-sig.figma.com/img/f2d3/038b/985d94469dd3e4e59a048b8ad995f428?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DZBj43GFCUotJAP3tk4tc4yRKFDDP0KKkfBNFY58bVNiyYbBf8rX2JnS9v0GUNPuSJCSGMLWXz~W0e5hEXBssAncOOO3w12US1HUWB76QPtA0TvqYcH~oNVYM6oQzSCdN-ln-u98UMJJ-r~QBLKmB4mNEemrjbtbnUUpHnUYFbX0Uw2BOEEmZFfM00-wJoux9uIQ4zTwjDqjchvP75OCI~2g8Us7ZLQVN7aHP9xczJqQX-OLiNS2SquVbzdwAy6qUtUBaDD54pZ27gdG-z1E1BHnPbywzTFqa3LzoagJz~jYIMOpWpd8vTssgF9KcFHnMMEnqTC9fDGa1a6uJ2phIg__");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.main-content-1 {
+    width: 529px;
+    height: 393px;
+    background-image: url("https://s3-alpha-sig.figma.com/img/ea58/8906/6051d6ed044c47455a840b85dae3ff49?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=P~0xWcrjdBRrNbEHwFebCHy0jMMuiEKBDtcKSH08PSmhNohxr~3zpCyABcS48CRHSjD7U9i0WysYb-Ic47nP7gtro8U18xNUDhQulm9owbrnoRXgzXgMHXXGuCQdigPACkeqcj-A5Ep6bwssFgj-E71Yaaw8sO4YySYQaXlSJ2djjvaWDrmbAAWRL9aJTpNbyuJ~iWu4RohQcSRUTWHvP5FM7DEN-zXuWndJPlML723rOf8DkLW3yRfbL4hmSoA78UYuFiNEqnXSUwzlHC2HET~VzUBIiprlGSvjxcv8m3~m5HzNaKHghTOvZRezpSE3nqDS8mnVUmtIw2xAg87I5g__");
+    background-size: cover;
+}
+.main-content-2 {
+    background: #FAF9F7;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    width: 529px;
+    height: 393px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column
+}
+
+button {
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    width: 409px;
+    height: 76px;
+    color: #000;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.block-video {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://s3-alpha-sig.figma.com/img/f2d3/038b/985d94469dd3e4e59a048b8ad995f428?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DZBj43GFCUotJAP3tk4tc4yRKFDDP0KKkfBNFY58bVNiyYbBf8rX2JnS9v0GUNPuSJCSGMLWXz~W0e5hEXBssAncOOO3w12US1HUWB76QPtA0TvqYcH~oNVYM6oQzSCdN-ln-u98UMJJ-r~QBLKmB4mNEemrjbtbnUUpHnUYFbX0Uw2BOEEmZFfM00-wJoux9uIQ4zTwjDqjchvP75OCI~2g8Us7ZLQVN7aHP9xczJqQX-OLiNS2SquVbzdwAy6qUtUBaDD54pZ27gdG-z1E1BHnPbywzTFqa3LzoagJz~jYIMOpWpd8vTssgF9KcFHnMMEnqTC9fDGa1a6uJ2phIg__");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+
+
+}
+
+.video-text {
+    color: #000;
+
+
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 950px;
+    margin-top: 110px;
+    margin-bottom: 87px;
+}
+
+.block-images {
+
+    background-image: url("https://s3-alpha-sig.figma.com/img/f2d3/038b/985d94469dd3e4e59a048b8ad995f428?Expires=1713744000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DZBj43GFCUotJAP3tk4tc4yRKFDDP0KKkfBNFY58bVNiyYbBf8rX2JnS9v0GUNPuSJCSGMLWXz~W0e5hEXBssAncOOO3w12US1HUWB76QPtA0TvqYcH~oNVYM6oQzSCdN-ln-u98UMJJ-r~QBLKmB4mNEemrjbtbnUUpHnUYFbX0Uw2BOEEmZFfM00-wJoux9uIQ4zTwjDqjchvP75OCI~2g8Us7ZLQVN7aHP9xczJqQX-OLiNS2SquVbzdwAy6qUtUBaDD54pZ27gdG-z1E1BHnPbywzTFqa3LzoagJz~jYIMOpWpd8vTssgF9KcFHnMMEnqTC9fDGa1a6uJ2phIg__");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 173px;
+
+
+}
+
+.image-content-1 {
+    width: 453.6px;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 151px;
+    margin-left: 50px;
+}
+
+.image-1 {
+    width: 408px;
+}
+
+span {
+    color: #000;
+
+    font-family: KoHo;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+button {
+    fill: rgba(217, 217, 217, 0.60);
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
