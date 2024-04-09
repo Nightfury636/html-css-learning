@@ -1,0 +1,36 @@
+.main {
+    border: 3px solid #BABAB9;
+    width: 400px;
+}
+img {
+    margin-left: 70px;
+}
+input {
+    margin-left: 40px;
+    margin-top: 10px;
+    border: 3px solid #BABAB9;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #A5A5A3;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+button {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.facebook-content{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.password {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
