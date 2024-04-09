@@ -1,6 +1,7 @@
 .main {
     border: 3px solid #BABAB9;
     width: 400px;
+    margin: 20px 20px 20px 20px;
 }
 img {
     margin-left: 70px;
@@ -33,4 +34,13 @@ button {
     align-items: center;
     justify-content: center;
     margin: 20px 0;
+}
+.registration {
+    border: 3px solid #BABAB9;
+    width: 400px;
+    margin: 0 20px 20px 20px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
