@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        .image {
+            width: 230px;
+            height: 100px;
+        }
+
+        .main {
+            display: flex;
+            flex-direction: column
+        }
+        input {
+            appearance: none;
+            width: 300px;
+            height: 35px;
+        }
+        button {
+            width: 300px;
+            height: 35px;
+            border-radius: 10px;
+            background-color: deepskyblue;
+            color: white;
+            font-size: 18px;
+            border: none;
+        }
+        .facebook {
+            width: 30px;
+            height: 30px;
+        }
+        .facebook-content {
+            display: flex;
+            align-items: center;
+
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<div class="main">
+
+    <img src="img.png" alt="#" class="image">
+
+    <input type="text" name="username" id="name" placeholder="Номер телефону, iм'я користувача або електронну адрессу" required>
+
+    <input type="password" id="password" placeholder="Пароль" required>
+    <span>Або</span>
+
+    <button>Увiйти</button>
+
+    <div class="facebook-content">
+        <img  src="icons8-facebook-48.png" class="facebook">
+        <a href="#">Увiйти через Facebook</a>
+    </div>
+    <a href="#" >Забули пароль?</a>
+</div>
+
+
+</body>
+</html>
