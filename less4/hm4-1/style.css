@@ -1,3 +1,9 @@
+body{
+    font-family: "KoHo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 .main {
     border: 3px solid #BABAB9;
     width: 400px;
