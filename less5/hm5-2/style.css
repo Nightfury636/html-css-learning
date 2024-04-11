@@ -6,7 +6,7 @@
 }
 .block-1,.block-2,.block-3 {
     width: 325px;
-    height: 500px;
+    height: 490px;
     background-color: rgba(217,217,217,0.30);
     margin-top: 270px;
     position: relative;
@@ -102,7 +102,7 @@ img{
     width: 60px;
     height: 60px;
     position: absolute;
-    z-index: 1;
+
 
 
 }
@@ -111,5 +111,6 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
+
 
 }
