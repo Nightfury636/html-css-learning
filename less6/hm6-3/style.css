@@ -1,0 +1,35 @@
+body {
+     margin: 0 auto;
+ }
+.a {
+    width: 100%;
+    height: 33.3vh;
+    background-color: #A5A5A3;
+}
+.main-content-1{
+    width: 70vw;
+    height: 65vh;
+
+}
+.main {
+    display: flex;
+}
+
+.f{
+    width: 30vw;
+    background-color: pink;
+}
+.b {
+    height: 33.3vh;
+    background-color: #65856E;
+
+}
+.main-content-2 {
+    display: flex;
+}
+
+.c {
+    width: 23.3vw;
+    height: 33.3vh;
+    background-color: blueviolet;
+}
