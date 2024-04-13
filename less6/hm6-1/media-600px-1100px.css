@@ -1,0 +1,22 @@
+@media screen and (min-width: 600px) and (max-width: 1100px){
+    .content {
+        width: 25vw;
+        height: 500px;
+        background-color: aquamarine;
+        margin: 7px 5px;
+
+    }
+    .main{
+        display: flex;
+    }
+    span {
+        width: 70px;
+        height: 30px;
+        background-color: red;
+        margin: 0 2px 8px 2px;
+
+    }
+    .main-content {
+        height: 350px;
+    }
+}

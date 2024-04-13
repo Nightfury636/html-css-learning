@@ -1,0 +1,25 @@
+@media screen  and (max-width: 600px){
+
+    .conteiner {
+        display: flex;
+        flex-direction: column;
+    }
+    .a {
+        height: 20vh;
+        background-color: red;
+        width: 100%;
+    }
+
+
+
+    .b{
+        width: 100%;
+        height: 60vh;
+        background-color: deeppink;
+    }
+    .c {
+        height: 20vw;
+        width: 100%;
+        background-color: chocolate;
+    }
+}

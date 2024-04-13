@@ -1,0 +1,19 @@
+@media screen  and (max-width: 600px){
+
+    nav{
+    display: flex;
+    flex-direction: column;
+    }
+    .main-content {
+        height: 200px;
+    }
+
+    .article{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .content {
+        width: 100vw;
+    }
+}

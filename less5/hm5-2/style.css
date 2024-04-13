@@ -43,7 +43,8 @@
     border-radius: 50%;
     justify-content: center;
     position: absolute;
-    top:-50px
+    top:-50px;
+    z-index: 2;
 
 }
 .image-2{

@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+.a {
+    height: 30vh;
+    width: 100%;
+    background-color: red;
+}
+
+
+
+.b{
+    width: 80vw;
+    height: 70vh;
+    background-color: deeppink;
+}
+.c {
+    width: 20vw;
+
+    background-color: chocolate;
+}
+
+.conteiner {
+    display: flex;
+}
